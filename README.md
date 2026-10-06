@@ -108,6 +108,8 @@ Want to add something? See [Contributing](#contributing).
 
 ## Productivity
 
+- [Awayra](https://awayra.github.io/AWAYRA-WPF/) - Windows break reminder with separate eye-rest and movement schedules. `GPL-3.0`
+
 - [AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - Scripting language for desktop automation, hotkeys, and macros. `GPL-2.0`
 - [Ditto](https://ditto-cp.sourceforge.io/) - Clipboard manager with search and network sync.
 - [Espanso](https://github.com/espanso/espanso) - Cross-platform text expander written in Rust. `GPL-3.0`
